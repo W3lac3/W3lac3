@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Walace, I'm currently 21 years old and I'm passionate about technology and games. I've been developing 4 years focused on game script development and also have interests in mobile application development.
+Hello, my name is Walace, I'm currently 22 years old and I'm passionate about technology and games. I've been developing 4 years focused on game script development and also have interests in mobile application development.
 
 
 # 💻 Tech Stack:
